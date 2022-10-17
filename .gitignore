@@ -132,3 +132,5 @@ dmypy.json
 ./CSV/*
 CSV/* 
 CSV/
+
+.DS_Store
