@@ -150,7 +150,7 @@ Average speed (m/s): 6.520350537776131
 
 #### Heatmap
 
-A great tool provied by [Mr. Liao](https://github.com/liaochengwu) is available in:
+A great tool provided by [Mr. Liao](https://github.com/liaochengwu) is available in:
 [https://liaochengwu.github.io/GPS_Points_Viz_tool/GPS_Viz.html](https://github.com/liaochengwu)
 
 <div align="center">
