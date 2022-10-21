@@ -2,7 +2,7 @@
 
 Vehicular trajectories processing for Didi GAIA Open Data Set
 
-## Data Source
+## 01 Data Source
 
 The project is dedicated to process the vehicular trajectories exacted by Didi GAIA Open Data Set.
 
@@ -22,9 +22,9 @@ Or you may just scan the QR code.
 
 ![1665973140315](image/README/1665973140315.png)
 
-## Usage
+## 02 Usage
 
-### Trajectory Processing
+### a) Trajectory Processing
 
 ```python
     trajectories_file_name: str = 'CSV/gps_20161116'
@@ -59,7 +59,7 @@ Output CSV Example
 	<img src="image/README/1665975368322.png" alt="Editor" width="600">
 </div>
 
-### Trajectory Analysis
+### b) Trajectory Analysis
 
 ```python
     processor = vehicleTrajectoriesProcessor(
@@ -140,7 +140,7 @@ Standard deviation of number of vehicles in each second: 2.365048742744123
 Average speed (m/s): 6.520350537776131
 ```
 
-### Visualization
+### c) Visualization
 
 #### Simple Trajectories
 
@@ -157,7 +157,7 @@ A great tool provided by [Mr. Liao](https://github.com/liaochengwu) is available
 	<img src="image/README/1665974481777.png" alt="Editor" width="600">
 </div>
 
-## Thanks
+## 03 Thanks
 
 ```bibtex
 @misc{didi,
