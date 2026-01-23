@@ -14,13 +14,17 @@ The project is dedicated to process the vehicular trajectories exacted by Didi G
 	<img src="image/README/1665971674871.png" alt="Editor" width="600">
 </div>
 
-Due to copyright issues, we are only sharing one day's data, which was generated in Chengdu on November 16, 2016. Please contact me if there is any infringement.
+### Data Availability Disclaimer
 
-The data is available: [http://gofile.me/6GOPQ/tWqiB4afG](http://gofile.me/6GOPQ/tWqiB4afG)
+Due to copyright, licensing, and data usage restrictions, this project does *not* distribute the DiDi Gaia Open Dataset or any part of it.
 
-Or you may just scan the QR code.
+Any data previously referenced in this repository must be obtained exclusively through DiDi’s official open data platform. Unauthorized redistribution or use of the dataset may violate the original data provider’s terms.
 
-![1665973140315](image/README/1665973140315.png)
+Researchers and users are required to apply for access via the official website and comply with all applicable terms and conditions set by DiDi:
+
+[https://outreach.didichuxing.com/research/opendata/](https://outreach.didichuxing.com/research/opendata/)
+
+This repository is provided for academic reference only and does not grant any rights to access or redistribute the dataset.
 
 ## 02 Usage
 
