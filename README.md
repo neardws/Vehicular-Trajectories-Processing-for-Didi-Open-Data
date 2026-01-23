@@ -116,8 +116,7 @@ Standard deviation of dwell time (s): 73.53746541137016
 Average number of vehicles in each second: 418.63
 Standard deviation of number of vehicles in each second: 5.166536557501553
 Average speed (m/s): 5.62245593351408
-Standard deviation of speed (m/s): 3.1179666402825843
-```
+Standard deviation of speed (m/s): 3.1179666402825843```
 
 * 14:00-14:05
 
@@ -165,7 +164,9 @@ A great tool provided by [@liaochengwu](https://github.com/liaochengwu) is avail
 
 ```bibtex
 @misc{didi,
-      date-modified = {2022-01-13 16:03:56 +0800},
-      howpublished = {\url{https://outreach.didichuxing.com/research/opendata/en/}},
-      title = {Data source: DiDi Chuxing GAIA Open Dataset Initiative}}
+  title         = {DiDi Chuxing GAIA Open Dataset Initiative},
+  howpublished  = {\url{https://outreach.didichuxing.com/research/opendata/}},
+  note          = {Accessed January 2026},
+  date-modified = {2026-01-23}
+}
 ```
